@@ -15,5 +15,9 @@ using Timer         = ge::helpers::Timer;
 using FPSCounter    = ge::helpers::FPSCounter;
 using Logger        = ge::helpers::Logger;
 using Stopwatch     = ge::helpers::Stopwatch;
+using UUID          = ge::helpers::UUID;
+using DateTime      = ge::helpers::DateTime;
+using Random        = ge::helpers::Random;
+using StringUtil    = ge::helpers::StringUtil;
 
 } // namespace ge::general
