@@ -1,0 +1,9 @@
+// 1: Time: Clock, Timer, Stopwatch, FPSCounter
+// 2: Logging / Diagnostics: Logger, Assertion helpers
+// 3: Config / Settings: simple key/value loader
+4: Utilities: UUID, Random, String, DateTime
+6: Resource / File helpers: FileSystem, path utilities
+7: Platform abstraction: Platform (os/time/path differences)
+8: Events: lightweight EventBus / signal system
+9: Memory / Allocator hooks (optional)
+10: Profiling / Telemetry (scoped timers)
